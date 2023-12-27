@@ -1,2 +1,2 @@
 # teestSecrets
-Storing all me secrets and keys
+Storing all my secrets and keys
